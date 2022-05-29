@@ -1,6 +1,9 @@
 # redis-limiter
 基于redis的限流器
 
+## install
+pip install redis-limiter
+
 ## intro
 陆陆续续写过不少基于redis的限流逻辑，看似简单，实际写下来还是有不少要留意的问题
 
