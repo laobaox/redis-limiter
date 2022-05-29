@@ -15,7 +15,7 @@ setup(
     description='A Redis based rate limiter implementation for Python',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/laobaox/redis-limiter.git',
+    url='https://github.com/laobaox/redis-limiter',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
