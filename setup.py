@@ -12,7 +12,7 @@ setup(
     name='redis-limiter',
     version=VERSION,
     author='bao xie',
-    description='A Redis based rate limiter implementation for Python'
+    description='A Redis based rate limiter implementation for Python',
     long_description=long_description,
     url='https://github.com/laobaox/redis-limiter.git',
     packages=find_packages(),
